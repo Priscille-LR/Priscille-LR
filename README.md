@@ -1,6 +1,6 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<div size='20px'> My name is Priscille. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px'> My name is Priscille. Thank You for taking the time to visit my GitHub Profile :smile: </div>
 
 <h2> About Me </h2>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on my OpenClassRoom certification
 
-- 🌱 I’m currently learning TypeScript, React, Javascript and some other stuffs
+- 🌱 Learning Javascript, TypeScript, React and some other stuff
 
-- 👯 Take your time and visit my repositories ! 😃
+- 👯 Passionate about design, interactivity and animation 😃
 
 
 
