@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my OpenClassRoom certification
+- 🔭 I’m currently working on my OpenClassrooms certification
 
 - 🌱 Learning Javascript, TypeScript, React and some other stuff
 
