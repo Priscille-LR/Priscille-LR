@@ -7,11 +7,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I just finished my OpenClassrooms certification in Front-end web development !
+- 🌱 Improving my skills in programming  
 
-- 🌱 Improving my skills in Javascript, TypeScript, ReactJS and now NodeJS 
-
-- 👯 Passionate about tech, design, interactivity and animation 😃
+- 😃 Passionate about tech, design, interactivity and animation 
 
 
 
